@@ -325,5 +325,8 @@ https://alanza.iptv2022.com/sh/RS_NEWS_SPORTS_5/tracks-v1a1/mono.m3u8?filter.tra
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Travel Tv
 http://31.148.48.15/Travel_Adventure_HD/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Travel Tv
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Team Usa Tv
 https://brandusa-gousa-1-be.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Mr.Bean Cartoons 
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/cb543d1f796c678e92d43e6ed3ef48a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7255db80148b61299bce8c37683f03409a5e5afba358b1ebb25441df6ea3b11b55912d45e79f43c8821da688d2529f5e8e70f0169f9af98cd1108b86f32e93728aecdb5f581fa9a83bf8f955bfd6937929957f2d556c3a8cc1b2cd3ef702da21269cded8b664857ca64fdc89125e97018b0fb439846ab94bd089b14806d8ad201169dea8766433b2eae0a7fa3b3ab167b1c483b9222ac8a446392fac1c06dd51772d798734fd8526f375d1db8a495753e1824c9ad29f82e1b9814ba6e8abadfbb53258476f0803c908ecca2d931ed476acc104321c6370edcb058ad6821e076b41d0d405940b4ded92cba2cf1e37cf571e58c369cd14503f9b7a3f2aa565d2b20841a56a4a893c36fe18128541f7b765b584d3f70936b0919616a821bffb5a9ca6429a6c3a5810babd790c12022e869c13675a4eca4be0dcddf23758509e90e3ca80026849696d1166edc5e87f9c82c5536d35c941296d71505ad633df67db0f5e136cae3ad6bf02608a162b4eb7f769bd3b8c09131ee73d633692f8e67db8b04fb8a205c8fc3e/106/1920x1080_6046040/index.m3u8
